@@ -22,6 +22,6 @@
   </div>
 
   <div class="container signin">
-    <p>Already hai? <a href="#">Sign in</a>.</p>
+    <p>dy hai? <a href="#">Sign in</a>.</p>
   </div>
 </form>
